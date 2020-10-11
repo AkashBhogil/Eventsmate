@@ -1,0 +1,103 @@
+body
+{
+	
+	padding-top: 100px;
+	background-image: url("back.png");
+	background-size:cover;
+	
+
+}
+.navbar-brand
+{
+	font-family: 'Merriweather', serif;
+	
+}
+.card
+{
+	
+	width: 40%;
+}
+#gallery
+{
+	background-color: #FFFFFF;
+background-image: linear-gradient(180deg, #FFFFFF 0%, #6284FF 12%, #FF0000 26%, #ffffff 100%);
+font-family: 'Permanent Marker', cursive;
+text-align: center;
+
+
+}
+
+#package
+{
+	background: #FF5F6D;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to bottom, #FFC371, #FF5F6D);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to bottom, #FFC371, #FF5F6D); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+font-family: 'Permanent Marker', cursive;
+text-align: center;
+
+
+}
+
+
+#about
+{
+	background: #C6FFDD;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to bottom, #f7797d, #FBD786, #C6FFDD);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to bottom, #f7797d, #FBD786, #C6FFDD); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+font-family: 'Permanent Marker', cursive;
+text-align: center;
+
+
+}
+
+.aboutustext
+{
+	text-align: justify;
+}
+	
+	
+.btn-grad {background-image: linear-gradient(to right, #E55D87 0%, #5FC3E4  51%, #E55D87  100%)}
+	.btn-grad {
+	   margin: 8px;
+	   padding: 10px 30px;
+	   text-align: center;
+	   text-transform: uppercase;
+	   transition: 0.5s;
+	   background-size: 200% auto;
+	   color: white;            
+	   box-shadow: 0 0 20px #eee;
+	   border-radius: 10px;
+	   display: block;
+	 }
+
+	 .btn-grad:hover {
+	   background-position: right center; /* change the direction of the change here */
+	   color: #fff;
+	   text-decoration: none;
+	 }
+
+	 hr {
+		width: 30%;
+		border: 0;
+		height: 1px;
+		background: #333;
+		background-image: linear-gradient(to right, #ccc, #333, #ccc);
+	 }
+
+
+	 .img-thumbnail {
+	
+		height: 250PX;
+	}
+
+	
+#location
+{background: #ef32d9;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #89fffd, #ef32d9);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #89fffd, #ef32d9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	font-family: 'Permanent Marker', cursive;
+text-align: center;
+
+
+}
